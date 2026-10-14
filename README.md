@@ -2,6 +2,15 @@
 
 Báo cáo dự án **STEM Quiz**: hệ thống trắc nghiệm trực tiếp kiểu Kahoot chạy hoàn toàn trong mạng nội bộ của lớp học. Học sinh trả lời bằng **thiết bị bấm ESP32 tự chế** hoặc điện thoại; giáo viên điều khiển và xem kết quả trên web.
 
+## Thành viên nhóm
+
+| STT | Họ và tên | MSSV |
+|:---:|---|:---:|
+| 1 | Bui Dinh Khoi | 23134032 |
+| 2 | Le Thanh Sang | 23134049 |
+| 3 | Bui Huynh Phuong Anh | 23134002 |
+| 4 | Pham Trung Kien | 23134034 |
+
 > Mọi sơ đồ viết bằng [Mermaid](https://mermaid.js.org/), GitHub tự vẽ ngay trên trang. Ảnh PNG nằm trong [`docs/images/`](docs/images).
 
 ## Mục lục
