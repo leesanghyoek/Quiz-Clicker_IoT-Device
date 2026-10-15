@@ -213,6 +213,12 @@ flowchart LR
     USB --> MCU
 ```
 
+Sơ đồ nguyên lý (schematic) đầy đủ của mạch, dùng để làm thêm thiết bị giống hệt và khớp với chân đã khai báo trong [`code.ino`](code.ino):
+
+<p align="center">
+  <img src="docs/images/schematic.png" alt="Sơ đồ nguyên lý thiết bị ESP32" width="800">
+</p>
+
 Bố trí phím:
 
 | | | | |
