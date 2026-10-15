@@ -204,7 +204,7 @@ flowchart LR
     SEG["2 LED 7 đoạn anode chung<br/>đoạn A-G, DP: GPIO 21 26 25 27 23 17 22 16"]
     PNP["2 transistor PNP<br/>chọn chữ số: GPIO 19 18"]
     LED["4 LED đáp án<br/>A: GPIO 4 · B: 5 · C: 15 · D: 2"]
-    USB["Nguồn 5 V qua USB"]
+    USB["Nguồn từ pin (J3)<br/>công tắc SW1 · LED báo nguồn D5<br/>J1/J6 (+/−) → J7/J8 (GND/5 V) → EXT_5V<br/>(USB khi nạp firmware)"]
 
     KP --> MCU
     MCU --> SEG
