@@ -1,0 +1,14 @@
+import puppeteer from 'puppeteer-core';
+const [,, url, out1, out2] = process.argv;
+const browser = await puppeteer.launch({ browser: 'firefox', executablePath: '/usr/bin/firefox', headless: true });
+const page = await browser.newPage();
+await page.setViewport({ width: 1280, height: 800 });
+await page.goto(url, { waitUntil: 'load' });
+await new Promise(r => setTimeout(r, 3500));
+await page.evaluate(() => document.querySelector('.devices-setup').scrollIntoView({block: 'start', behavior: 'instant'}));
+await new Promise(r => setTimeout(r, 500));
+await page.screenshot({ path: out1 });
+await page.click('[data-qr="02"]');
+await new Promise(r => setTimeout(r, 600));
+await page.screenshot({ path: out2 });
+await browser.close();

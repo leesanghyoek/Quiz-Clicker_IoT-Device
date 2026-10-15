@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1410" viewBox="0 0 1600 1410" font-family="DejaVu Sans, Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f5bb7"/></marker><marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7b4fd1"/></marker><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f8f63"/></marker><marker id="s" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b06a12"/></marker><marker id="i" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b8a"/></marker></defs>
+<rect width="1600" height="1410" fill="#ffffff"/>
+<text x="800.0" y="40" font-size="26" font-weight="bold" fill="#1d2a44" text-anchor="middle">Kiến trúc tổng thể hệ thống STEM Quiz</text>
+<rect x="20" y="64" width="1560" height="290" rx="16" fill="#eaf2ff" stroke="#b9cdf0" stroke-width="1.5"/>
+<text x="40" y="88" font-size="15" font-weight="bold" fill="#2d4a8a" text-anchor="start">TẦNG CLIENT</text>
+<rect x="45" y="100" width="490" height="240" rx="12" fill="#ffffff" stroke="#8fb0e8" stroke-width="1.5"/>
+<text x="290" y="124" font-size="15" font-weight="bold" fill="#2d4a8a" text-anchor="middle">Giáo viên · trình duyệt trên laptop</text>
+<rect x="65" y="136" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="290.0" y="153.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">Giao diện quản lý &amp; phân tích</text>
+<text x="290.0" y="169.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">HTML + form POST</text>
+<rect x="65" y="186" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="290.0" y="203.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">Màn hình trình chiếu (máy chiếu)</text>
+<text x="290.0" y="219.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">lobby · quiz_run</text>
+<rect x="65" y="236" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="290.0" y="253.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">Nền 3D three.js</text>
+<text x="290.0" y="269.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">stem-world.js</text>
+<rect x="65" y="286" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="290.0" y="303.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">sessionStorage / localStorage</text>
+<text x="290.0" y="319.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">trạng thái cảnh 3D · kiểu giao diện</text>
+<rect x="560" y="100" width="490" height="240" rx="12" fill="#ffffff" stroke="#8fb0e8" stroke-width="1.5"/>
+<text x="805" y="124" font-size="15" font-weight="bold" fill="#2d4a8a" text-anchor="middle">Học sinh · điện thoại</text>
+<rect x="580" y="136" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="805.0" y="153.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">phone.php</text>
+<text x="805.0" y="169.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">nút A/B/C/D · hỏi trạng thái mỗi giây</text>
+<rect x="580" y="186" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="805.0" y="203.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">Web Bluetooth</text>
+<text x="805.0" y="219.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">Chrome trên Android</text>
+<rect x="580" y="236" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="805.0" y="253.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">Service Worker cache</text>
+<text x="805.0" y="269.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">mở được trang khi mất Wi-Fi</text>
+<rect x="580" y="286" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="805.0" y="303.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">localStorage</text>
+<text x="805.0" y="319.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">mã máy · STT · phiên đang làm</text>
+<rect x="1075" y="100" width="490" height="240" rx="12" fill="#ffffff" stroke="#8fb0e8" stroke-width="1.5"/>
+<text x="1320" y="124" font-size="15" font-weight="bold" fill="#2d4a8a" text-anchor="middle">Học sinh · thiết bị ESP32</text>
+<rect x="1095" y="136" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="1320.0" y="153.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">uiTask (FreeRTOS)</text>
+<text x="1320.0" y="169.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">bàn phím 4×4 · LED 7 đoạn · LED A–D</text>
+<rect x="1095" y="186" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="1320.0" y="203.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">loop(): máy trạng thái</text>
+<text x="1320.0" y="219.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">sendRequest() chọn Wi-Fi hoặc BLE</text>
+<rect x="1095" y="236" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2"/>
+<text x="1320.0" y="253.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">findServer()</text>
+<text x="1320.0" y="269.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">mDNS → IP cũ → gateway → dự phòng</text>
+<rect x="1095" y="286" width="450" height="42" rx="8" fill="#f6f9ff" stroke="#c4d3ef" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="1320.0" y="303.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">Flash (Preferences)</text>
+<text x="1320.0" y="319.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">phiên đang làm · IP máy chủ</text>
+<rect x="20" y="470" width="1560" height="600" rx="16" fill="#effaf2" stroke="#b5dcc1" stroke-width="1.5"/>
+<rect x="45" y="510" width="820" height="110" rx="12" fill="#ffffff" stroke="#7fbf96" stroke-width="1.5"/>
+<text x="455" y="534" font-size="14" font-weight="bold" fill="#1f6b45" text-anchor="middle">Web server · Apache 2</text>
+<rect x="65" y="552" width="380" height="50" rx="8" fill="#f3fbf6" stroke="#a9d8b9" stroke-width="1.2"/>
+<text x="255.0" y="573.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">VirtualHost :80</text>
+<text x="255.0" y="589.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">HTTP</text>
+<rect x="465" y="552" width="380" height="50" rx="8" fill="#f3fbf6" stroke="#a9d8b9" stroke-width="1.2"/>
+<text x="655.0" y="573.25" font-size="12.5" font-weight="bold" fill="#1d2a44" text-anchor="middle">VirtualHost :443</text>
+<text x="655.0" y="589.75" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">HTTPS · chứng chỉ do CA nội bộ ký</text>
+<rect x="905" y="510" width="410" height="110" rx="12" fill="#ffffff" stroke="#b59ae6" stroke-width="1.5"/>
+<text x="1110" y="534" font-size="14" font-weight="bold" fill="#5a36a8" text-anchor="middle">Cầu nối Bluetooth · Python 3.12</text>
+<rect x="920" y="546" width="380" height="30" rx="8" fill="#f7f3ff" stroke="#d3c4f2" stroke-width="1.2"/>
+<text x="1110.0" y="565.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">ble_gateway.py · BLE central (bleak) → ESP32</text>
+<rect x="920" y="582" width="380" height="30" rx="8" fill="#f7f3ff" stroke="#d3c4f2" stroke-width="1.2"/>
+<text x="1110.0" y="601.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">phone_server.py · BLE peripheral (BlueZ) → điện thoại</text>
+<rect x="1345" y="510" width="220" height="110" rx="12" fill="#ffffff" stroke="#9fb4c9" stroke-width="1.5"/>
+<text x="1455" y="532" font-size="13.5" font-weight="bold" fill="#3d5470" text-anchor="middle">Dịch vụ hệ điều hành</text>
+<rect x="1355" y="542" width="200" height="21" rx="8" fill="#f4f7fa" stroke="#cdd8e3" stroke-width="1.2"/>
+<text x="1455.0" y="556.28" font-size="10.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">Hotspot 10.42.0.1</text>
+<rect x="1355" y="567" width="200" height="21" rx="8" fill="#f4f7fa" stroke="#cdd8e3" stroke-width="1.2"/>
+<text x="1455.0" y="581.28" font-size="10.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">avahi · mDNS *.local</text>
+<rect x="1355" y="592" width="200" height="21" rx="8" fill="#f4f7fa" stroke="#cdd8e3" stroke-width="1.2"/>
+<text x="1455.0" y="606.28" font-size="10.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">BlueZ 5.72 · Bluetooth</text>
+<rect x="45" y="650" width="1520" height="400" rx="14" fill="#ffffff" stroke="#7fbf96" stroke-width="1.5"/>
+<text x="805" y="674" font-size="15" font-weight="bold" fill="#1f6b45" text-anchor="middle">Ứng dụng PHP 8.3 · /var/www/html/iot</text>
+<rect x="65" y="688" width="700" height="196" rx="10" fill="#fbfdfb" stroke="#a9d8b9" stroke-width="1.5"/>
+<text x="415" y="708" font-size="13.5" font-weight="bold" fill="#1f6b45" text-anchor="middle">Trang web giáo viên · cần đăng nhập</text>
+<rect x="80" y="718" width="670" height="27" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="415.0" y="735.64" font-size="11.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">Tài khoản — register · login · account · logout</text>
+<rect x="80" y="750" width="670" height="27" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="415.0" y="767.64" font-size="11.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">Quản lý — dashboard · classes · class · students · quizzes · quiz · devices</text>
+<rect x="80" y="782" width="670" height="27" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="415.0" y="799.64" font-size="11.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">Thao tác (POST + CSRF) — add/edit/delete_* · import_* · assign · launch · start · next · end · cancel</text>
+<rect x="80" y="814" width="670" height="27" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="415.0" y="831.64" font-size="11.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">Trình chiếu — lobby · quiz_run</text>
+<rect x="80" y="846" width="670" height="27" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="415.0" y="863.64" font-size="11.5" font-weight="normal" fill="#1d2a44" text-anchor="middle">Phân tích — results · session_results · result_question · progress · review</text>
+<rect x="785" y="688" width="380" height="196" rx="10" fill="#fbfdfb" stroke="#a9d8b9" stroke-width="1.5"/>
+<text x="975" y="708" font-size="13.5" font-weight="bold" fill="#1f6b45" text-anchor="middle">API JSON</text>
+<rect x="800" y="718" width="350" height="70" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="975.0" y="741.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">Cho thiết bị · công khai</text>
+<text x="975.0" y="757.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">api/join · api/session_state</text>
+<text x="975.0" y="773.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">api/answer</text>
+<rect x="800" y="798" width="350" height="76" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="975.0" y="824.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">Cập nhật màn hình · cần đăng nhập</text>
+<text x="975.0" y="840.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">api/lobby_status · api/question_status</text>
+<text x="975.0" y="856.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">api/reorder_questions</text>
+<rect x="1185" y="688" width="360" height="196" rx="10" fill="#fbfdfb" stroke="#a9d8b9" stroke-width="1.5"/>
+<text x="1365" y="708" font-size="13.5" font-weight="bold" fill="#1f6b45" text-anchor="middle">Trang học sinh &amp; tài nguyên · công khai</text>
+<rect x="1200" y="718" width="330" height="70" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="1365.0" y="741.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">phone.php · phone_setup.php</text>
+<text x="1365.0" y="757.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">phone-sw.js (Service Worker)</text>
+<text x="1365.0" y="773.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">phone.webmanifest (PWA)</text>
+<rect x="1200" y="798" width="330" height="76" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="1365.0" y="824.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">assets/css · assets/js (three.js)</text>
+<text x="1365.0" y="840.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">icon · stem-quiz-ca.crt</text>
+<text x="1365.0" y="856.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">(tải bằng trình duyệt)</text>
+<rect x="65" y="904" width="1480" height="132" rx="10" fill="#fbfdfb" stroke="#a9d8b9" stroke-width="1.5"/>
+<text x="805" y="924" font-size="13.5" font-weight="bold" fill="#1f6b45" text-anchor="middle">Thư viện dùng chung · includes/ và config/</text>
+<rect x="80" y="934" width="350" height="44" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="255.0" y="952.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">auth.php</text>
+<text x="255.0" y="968.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">phiên đăng nhập · CSRF</text>
+<rect x="445" y="934" width="350" height="44" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="620.0" y="952.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">join_code.php</text>
+<text x="620.0" y="968.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">cấp mã phòng (GET_LOCK)</text>
+<rect x="810" y="934" width="350" height="44" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="985.0" y="952.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">quiz_lock.php</text>
+<text x="985.0" y="968.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">khoá sửa quiz đã chạy</text>
+<rect x="1175" y="934" width="350" height="44" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="1350.0" y="952.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">student_rules.php</text>
+<text x="1350.0" y="968.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">STT đúng 2 chữ số</text>
+<rect x="80" y="984" width="350" height="44" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="255.0" y="1002.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">results_data · progress_data</text>
+<text x="255.0" y="1018.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">review_data · cách tính điểm</text>
+<rect x="445" y="984" width="350" height="44" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="620.0" y="1002.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">live_sessions.php</text>
+<text x="620.0" y="1018.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">phiên chưa kết thúc</text>
+<rect x="810" y="984" width="350" height="44" rx="8" fill="#f3fbf6" stroke="#c6e6d1" stroke-width="1.2"/>
+<text x="985.0" y="1002.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">layout · topbar · sidebar</text>
+<text x="985.0" y="1018.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">places · flash · wordmark</text>
+<rect x="1175" y="984" width="350" height="44" rx="8" fill="#fff6e6" stroke="#e3b56a" stroke-width="1.2"/>
+<text x="1350.0" y="1002.32" font-size="12" font-weight="bold" fill="#1d2a44" text-anchor="middle">config/db.php</text>
+<text x="1350.0" y="1018.32" font-size="12" font-weight="normal" fill="#1d2a44" text-anchor="middle">kết nối mysqli · utf8mb4</text>
+<path d="M455,620 L455,650" fill="none" stroke="#5b6b8a" stroke-width="2.2" marker-end="url(#i)"/>
+<text x="465" y="642" font-size="12.5" font-weight="bold" fill="#5b6b8a" text-anchor="start">③ định tuyến URL → file .php</text>
+<path d="M415,884 L415,904" fill="none" stroke="#5b6b8a" stroke-width="2.2" marker-end="url(#i)"/>
+<path d="M975,884 L975,904" fill="none" stroke="#5b6b8a" stroke-width="2.2" marker-end="url(#i)"/>
+<path d="M905,597 L867,597" fill="none" stroke="#7b4fd1" stroke-width="2.2" marker-end="url(#b)"/>
+<text x="870" y="590" font-size="12.5" font-weight="bold" fill="#7b4fd1" text-anchor="start">②</text>
+<path d="M1315,597 L1343,597" fill="none" stroke="#7b4fd1" stroke-width="2.2" marker-end="url(#b)"/>
+<rect x="20" y="1106" width="1560" height="250" rx="16" fill="#fff7e8" stroke="#ecd2a2" stroke-width="1.5"/>
+<text x="40" y="1130" font-size="15" font-weight="bold" fill="#8a5a12" text-anchor="start">TẦNG DỮ LIỆU · MariaDB 10.11 · database iot (InnoDB, utf8mb4)</text>
+<path d="M71.0,1162 L71.0,1290 A135.0,16 0 0 0 341.0,1290 L341.0,1162 " fill="#fffaf0" stroke="#d9a650" stroke-width="1.5"/>
+<ellipse cx="206.0" cy="1162" rx="135.0" ry="16" fill="#fdebc8" stroke="#d9a650" stroke-width="1.5"/>
+<text x="206.0" y="1227.0" font-size="14" font-weight="bold" fill="#5c3b08" text-anchor="middle">Người dùng</text>
+<text x="206.0" y="1246.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">teachers</text>
+<path d="M368.0,1162 L368.0,1290 A135.0,16 0 0 0 638.0,1290 L638.0,1162 " fill="#fffaf0" stroke="#d9a650" stroke-width="1.5"/>
+<ellipse cx="503.0" cy="1162" rx="135.0" ry="16" fill="#fdebc8" stroke="#d9a650" stroke-width="1.5"/>
+<text x="503.0" y="1218.0" font-size="14" font-weight="bold" fill="#5c3b08" text-anchor="middle">Lớp học</text>
+<text x="503.0" y="1237.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">classes</text>
+<text x="503.0" y="1256.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">students</text>
+<path d="M665.0,1162 L665.0,1290 A135.0,16 0 0 0 935.0,1290 L935.0,1162 " fill="#fffaf0" stroke="#d9a650" stroke-width="1.5"/>
+<ellipse cx="800.0" cy="1162" rx="135.0" ry="16" fill="#fdebc8" stroke="#d9a650" stroke-width="1.5"/>
+<text x="800.0" y="1209.0" font-size="14" font-weight="bold" fill="#5c3b08" text-anchor="middle">Ngân hàng câu hỏi</text>
+<text x="800.0" y="1228.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">quizzes · questions</text>
+<text x="800.0" y="1247.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">question_options</text>
+<text x="800.0" y="1266.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">class_quizzes</text>
+<path d="M962.0,1162 L962.0,1290 A135.0,16 0 0 0 1232.0,1290 L1232.0,1162 " fill="#fffaf0" stroke="#d9a650" stroke-width="1.5"/>
+<ellipse cx="1097.0" cy="1162" rx="135.0" ry="16" fill="#fdebc8" stroke="#d9a650" stroke-width="1.5"/>
+<text x="1097.0" y="1227.0" font-size="14" font-weight="bold" fill="#5c3b08" text-anchor="middle">Thiết bị</text>
+<text x="1097.0" y="1246.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">devices</text>
+<path d="M1259.0,1162 L1259.0,1290 A135.0,16 0 0 0 1529.0,1290 L1529.0,1162 " fill="#fffaf0" stroke="#d9a650" stroke-width="1.5"/>
+<ellipse cx="1394.0" cy="1162" rx="135.0" ry="16" fill="#fdebc8" stroke="#d9a650" stroke-width="1.5"/>
+<text x="1394.0" y="1209.0" font-size="14" font-weight="bold" fill="#5c3b08" text-anchor="middle">Phiên trực tiếp</text>
+<text x="1394.0" y="1228.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">live_sessions</text>
+<text x="1394.0" y="1247.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">device_sessions</text>
+<text x="1394.0" y="1266.0" font-size="12.5" font-weight="normal" fill="#5c3b08" text-anchor="middle">responses</text>
+<text x="800.0" y="1338" font-size="12.5" font-weight="normal" fill="#8a5a12" text-anchor="middle">Khoá ngoại RESTRICT · UNIQUE chống vào phòng / trả lời 2 lần · transaction + SELECT … FOR UPDATE · ON DELETE SET NULL giữ kết quả khi xoá thiết bị</text>
+<path d="M1350,1028 L1350,1142" fill="none" stroke="#b06a12" stroke-width="2.2" marker-end="url(#s)"/>
+<text x="1360" y="1080" font-size="12.5" font-weight="bold" fill="#b06a12" text-anchor="start">① SQL · prepared statement</text>
+<text x="1360" y="1098" font-size="12.5" font-weight="bold" fill="#b06a12" text-anchor="start">    transaction · khoá hàng</text>
+<path d="M200,340 L200,508" fill="none" stroke="#2f5bb7" stroke-width="2.2" marker-end="url(#a)"/>
+<text x="208" y="410" font-size="12.5" font-weight="bold" fill="#2f5bb7" text-anchor="start">④ Wi-Fi · HTML, form POST</text>
+<path d="M430,340 L430,508" fill="none" stroke="#2f5bb7" stroke-width="2.2" marker-end="url(#a)"/>
+<text x="438" y="440" font-size="12.5" font-weight="bold" fill="#2f5bb7" text-anchor="start">⑤ JSON mỗi giây</text>
+<path d="M640,340 L640,508" fill="none" stroke="#2f5bb7" stroke-width="2.2" marker-end="url(#a)"/>
+<text x="648" y="410" font-size="12.5" font-weight="bold" fill="#2f5bb7" text-anchor="start">⑨ Wi-Fi · 3 API</text>
+<path d="M1000,340 L1000,508" fill="none" stroke="#7b4fd1" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#a)"/>
+<text x="1008" y="440" font-size="12.5" font-weight="bold" fill="#7b4fd1" text-anchor="start">⑩ BLE · lệnh J / S / A</text>
+<path d="M1120,340 L1120,395 L820,395 L820,508" fill="none" stroke="#ffffff" stroke-width="8"/>
+<path d="M1120,340 L1120,395 L820,395 L820,508" fill="none" stroke="#2f5bb7" stroke-width="2.2" marker-end="url(#a)"/>
+<text x="828" y="388" font-size="12.5" font-weight="bold" fill="#2f5bb7" text-anchor="start">⑥ Wi-Fi · 3 API</text>
+<path d="M1240,340 L1240,508" fill="none" stroke="#7b4fd1" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#a)"/>
+<text x="1248" y="410" font-size="12.5" font-weight="bold" fill="#7b4fd1" text-anchor="start">⑦ BLE (bấm **)</text>
+<path d="M1460,340 L1460,508" fill="none" stroke="#1f8f63" stroke-width="2.2" stroke-dasharray="2 4" marker-end="url(#a)"/>
+<text x="1468" y="440" font-size="12.5" font-weight="bold" fill="#1f8f63" text-anchor="start">⑧ mDNS</text>
+<line x1="300" y1="1390" x2="350" y2="1390" stroke="#2f5bb7" stroke-width="2.2"/>
+<text x="358" y="1394" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="start">Wi-Fi · HTTP/HTTPS + JSON</text>
+<line x1="600" y1="1390" x2="650" y2="1390" stroke="#7b4fd1" stroke-width="2.2" stroke-dasharray="7 5"/>
+<text x="658" y="1394" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="start">Bluetooth Low Energy (GATT)</text>
+<line x1="900" y1="1390" x2="950" y2="1390" stroke="#1f8f63" stroke-width="2.2" stroke-dasharray="2 4"/>
+<text x="958" y="1394" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="start">mDNS</text>
+<rect x="1060" y="1381" width="40" height="18" rx="4" fill="#f6f9ff" stroke="#c4d3ef" stroke-dasharray="5 4"/>
+<text x="1108" y="1394" font-size="12.5" font-weight="normal" fill="#1d2a44" text-anchor="start">lưu trữ phía client</text>
+<text x="40" y="494" font-size="15" font-weight="bold" fill="#1f6b45" text-anchor="start" stroke="#effaf2" stroke-width="7" stroke-linejoin="round" paint-order="stroke">TẦNG MÁY CHỦ · laptop giáo viên (Ubuntu)</text>
+</svg>

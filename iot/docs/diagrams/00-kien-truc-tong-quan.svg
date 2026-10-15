@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" font-family="DejaVu Sans, Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f5bb7"/></marker><marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7b4fd1"/></marker><marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f6b45"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#a8650f"/></marker></defs>
+<rect width="1400" height="640" fill="#ffffff"/>
+<text x="700.0" y="46" font-size="26" font-weight="bold" fill="#1d2a44" text-anchor="middle">Kiến trúc tổng quan hệ thống STEM Quiz</text>
+<text x="190" y="110" font-size="15" font-weight="bold" fill="#2d4a8a" text-anchor="middle">NGƯỜI DÙNG</text>
+<rect x="40" y="140" width="300" height="120" rx="14" fill="#eaf2ff" stroke="#8fb0e8" stroke-width="2"/>
+<text x="190.0" y="196.0" font-size="18" font-weight="bold" fill="#2d4a8a" text-anchor="middle">Giáo viên</text>
+<text x="190.0" y="220.0" font-size="14" font-weight="normal" fill="#4a5670" text-anchor="middle">trình duyệt web trên laptop</text>
+<rect x="40" y="290" width="300" height="240" rx="14" fill="#eaf2ff" stroke="#8fb0e8" stroke-width="2"/>
+<text x="190" y="322" font-size="18" font-weight="bold" fill="#2d4a8a" text-anchor="middle">Học sinh</text>
+<rect x="60" y="340" width="260" height="76" rx="10" fill="#ffffff" stroke="#b9cdf0" stroke-width="1.5"/>
+<text x="190" y="372" font-size="16" font-weight="bold" fill="#1d2a44" text-anchor="middle">Thiết bị ESP32</text>
+<text x="190" y="396" font-size="13.5" font-weight="normal" fill="#4a5670" text-anchor="middle">bàn phím bấm A / B / C / D</text>
+<rect x="60" y="430" width="260" height="76" rx="10" fill="#ffffff" stroke="#b9cdf0" stroke-width="1.5"/>
+<text x="190" y="462" font-size="16" font-weight="bold" fill="#1d2a44" text-anchor="middle">Điện thoại</text>
+<text x="190" y="486" font-size="13.5" font-weight="normal" fill="#4a5670" text-anchor="middle">trang web phone.php</text>
+<rect x="480" y="90" width="560" height="450" rx="18" fill="#effaf2" stroke="#9fd3b0" stroke-width="2"/>
+<text x="760" y="122" font-size="16" font-weight="bold" fill="#1f6b45" text-anchor="middle">MÁY CHỦ · laptop giáo viên</text>
+<rect x="505" y="140" width="510" height="220" rx="14" fill="#ffffff" stroke="#7fbf96" stroke-width="2"/>
+<text x="760" y="168" font-size="17" font-weight="bold" fill="#1f6b45" text-anchor="middle">Web server Apache + PHP</text>
+<rect x="530" y="185" width="460" height="70" rx="14" fill="#f3fbf6" stroke="#a9d8b9" stroke-width="2"/>
+<text x="760.0" y="216.0" font-size="18" font-weight="bold" fill="#1f6b45" text-anchor="middle">Website giáo viên</text>
+<text x="760.0" y="240.0" font-size="14" font-weight="normal" fill="#4a5670" text-anchor="middle">quản lý lớp, câu hỏi · chạy quiz · xem kết quả</text>
+<rect x="530" y="270" width="460" height="70" rx="14" fill="#f3fbf6" stroke="#a9d8b9" stroke-width="2"/>
+<text x="760.0" y="301.0" font-size="18" font-weight="bold" fill="#1f6b45" text-anchor="middle">API cho thiết bị (JSON)</text>
+<text x="760.0" y="325.0" font-size="14" font-weight="normal" fill="#4a5670" text-anchor="middle">vào phòng · nhận câu hỏi · gửi đáp án</text>
+<rect x="505" y="410" width="510" height="105" rx="14" fill="#f7f3ff" stroke="#b59ae6" stroke-width="2"/>
+<text x="760.0" y="458.5" font-size="18" font-weight="bold" fill="#5a36a8" text-anchor="middle">Cầu nối Bluetooth (Python)</text>
+<text x="760.0" y="482.5" font-size="14" font-weight="normal" fill="#4a5670" text-anchor="middle">chuyển yêu cầu Bluetooth thành lời gọi API</text>
+<path d="M1110,210 L1110,380 A125.0,20 0 0 0 1360,380 L1360,210" fill="#fff7e8" stroke="#d9a650" stroke-width="2"/>
+<ellipse cx="1235.0" cy="210" rx="125.0" ry="20" fill="#fdebc8" stroke="#d9a650" stroke-width="2"/>
+<text x="1235.0" y="110" font-size="15" font-weight="bold" fill="#a8650f" text-anchor="middle">DỮ LIỆU</text>
+<text x="1235.0" y="272" font-size="20" font-weight="bold" fill="#5c3b08" text-anchor="middle">MariaDB</text>
+<text x="1235.0" y="304" font-size="14" font-weight="normal" fill="#5c3b08" text-anchor="middle">giáo viên · lớp · học sinh</text>
+<text x="1235.0" y="328" font-size="14" font-weight="normal" fill="#5c3b08" text-anchor="middle">câu hỏi · thiết bị</text>
+<text x="1235.0" y="352" font-size="14" font-weight="normal" fill="#5c3b08" text-anchor="middle">phiên quiz · đáp án</text>
+<path d="M340,200 L440,200 L440,220 L528,220" fill="none" stroke="#2f5bb7" stroke-width="2.6" marker-end="url(#a)"/>
+<text x="390" y="190" font-size="14" font-weight="bold" fill="#2f5bb7" text-anchor="middle">Wi-Fi</text>
+<path d="M340,380 L440,380 L440,305 L528,305" fill="none" stroke="#2f5bb7" stroke-width="2.6" marker-end="url(#a)"/>
+<text x="392" y="368" font-size="14" font-weight="bold" fill="#2f5bb7" text-anchor="middle">Wi-Fi</text>
+<path d="M340,470 L503,470" fill="none" stroke="#7b4fd1" stroke-width="2.6" stroke-dasharray="9 6" marker-end="url(#b)"/>
+<text x="422" y="458" font-size="14" font-weight="bold" fill="#7b4fd1" text-anchor="middle">Bluetooth</text>
+<text x="422" y="492" font-size="13" font-weight="normal" fill="#7b4fd1" text-anchor="middle">(dự phòng)</text>
+<path d="M760,410 L760,342" fill="none" stroke="#7b4fd1" stroke-width="2.6" marker-end="url(#b)"/>
+<text x="772" y="382" font-size="13" font-weight="bold" fill="#7b4fd1" text-anchor="start">gọi API</text>
+<path d="M1015,250 L1060,250 L1060,300 L1108,300" fill="none" stroke="#a8650f" stroke-width="2.6" marker-end="url(#o)"/>
+<text x="1062" y="238" font-size="14" font-weight="bold" fill="#a8650f" text-anchor="middle">SQL</text>
+<line x1="330" y1="595" x2="390" y2="595" stroke="#2f5bb7" stroke-width="2.6"/>
+<text x="400" y="600" font-size="14" font-weight="normal" fill="#1d2a44" text-anchor="start">Wi-Fi · HTTP + JSON</text>
+<line x1="620" y1="595" x2="680" y2="595" stroke="#7b4fd1" stroke-width="2.6" stroke-dasharray="9 6"/>
+<text x="690" y="600" font-size="14" font-weight="normal" fill="#1d2a44" text-anchor="start">Bluetooth Low Energy</text>
+<line x1="920" y1="595" x2="980" y2="595" stroke="#a8650f" stroke-width="2.6"/>
+<text x="990" y="600" font-size="14" font-weight="normal" fill="#1d2a44" text-anchor="start">Truy vấn database</text>
+</svg>
