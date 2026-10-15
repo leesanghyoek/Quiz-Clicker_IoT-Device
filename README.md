@@ -1,5 +1,5 @@
 # Quiz Clicker: thiết bị IoT trả lời trắc nghiệm trên lớp (STEM Quiz)
-
+![Thiết bị trả lời](docs/images/thietbi.jpeg)
 Báo cáo dự án **STEM Quiz**: hệ thống trắc nghiệm trực tiếp kiểu Kahoot chạy hoàn toàn trong mạng nội bộ của lớp học. Học sinh trả lời bằng **thiết bị bấm IoT ESP32 ** hoặc điện thoại; giáo viên điều khiển và xem kết quả trên web.
 
 ## Thành viên nhóm
