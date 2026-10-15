@@ -54,6 +54,16 @@ Giáo viên cần kiểm tra nhanh mức hiểu bài của cả lớp. Giơ tay 
 | Ôn tập | Tự tạo quiz mới từ những câu cả lớp hay sai nhất |
 | Đường truyền | Wi-Fi tự tìm máy chủ (mDNS); Bluetooth cho ESP32 và điện thoại Android (Web Bluetooth) |
 
+### 1.4. Giao diện web
+
+| Trang chủ (Dashboard) | Ngân hàng quiz |
+|:---:|:---:|
+| <img src="docs/images/web1.png" alt="Dashboard" width="400"> | <img src="docs/images/web2.png" alt="Quizzes" width="400"> |
+| **Danh sách lớp** | **Kết quả các buổi quiz** |
+| <img src="docs/images/web3.png" alt="Classes" width="400"> | <img src="docs/images/web4.png" alt="Results" width="400"> |
+| **Tiến bộ của lớp** | |
+| <img src="docs/images/web5.png" alt="Progress" width="400"> | |
+
 ---
 
 ## 2. Kiến trúc hệ thống
